@@ -1,0 +1,48 @@
+body {
+    text-align: center;
+}
+
+h1 {
+    color: green;
+}
+
+.message {
+    color: red;
+}
+
+form {
+    width: 550px;
+    display: inline-block;
+}
+
+input[type='text'] {
+    padding: 5px;
+    width: 400px;
+}
+
+input[type='submit'] {
+    cursor: pointer;
+    margin-right: 33px;
+    padding: 5px;
+}
+
+textarea {
+    padding: 5px;
+    width: 400px;
+}
+
+table {
+    width: 550px;
+}
+
+td {
+    padding: 5px;
+}
+
+.txt_label {
+    width: 20%;
+}
+
+.txt_input {
+    width: 80%;
+}
